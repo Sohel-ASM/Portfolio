@@ -11,7 +11,9 @@
 <body>
   <div id = "page-wrap">
     <nav id="navbar">
-      <div id = "nav_left" class= "left"></div>
+      <div id = "nav_left" class= "left">
+        <img id="logo-img" src="https://i.postimg.cc/15mHQKHT/3-N2.jpg"  alt="Logo" >
+      </div>
       <div id = "nav_right" class= "right"></div>
     </nav>
     
