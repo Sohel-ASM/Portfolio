@@ -11,8 +11,8 @@
 <body>
   <div id = "page-wrap">
     <nav id="navbar">
-      <div></div>
-      <div></div>
+      <div id = "nav_left" class= "left"></div>
+      <div id = "nav_right" class= "right"></div>
     </nav>
     
   
