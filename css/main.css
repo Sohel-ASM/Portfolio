@@ -154,3 +154,15 @@
     flex-flow: row wrap;
     justify-content: space-around;
 }
+
+#pro_left {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+}
+
+#pro_right {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+}
