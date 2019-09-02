@@ -209,3 +209,12 @@
     top: 20rem;
     height: 18rem;
 }
+
+#form {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 2%;
+    box-shadow: -2px 2px 3px;
+    width: 40%;
+    margin: 1.5rem auto;
+    padding: 1.5rem;
+}
