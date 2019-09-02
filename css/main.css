@@ -32,3 +32,10 @@
     border-radius: 70%;
     border: 2px solid rgba(32, 16, 91, 0.9);
 }
+
+#nav_right {
+    flex: 2 50%;
+    margin: 0 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
