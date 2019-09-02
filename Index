@@ -87,6 +87,9 @@
                     <label for="msg">Message:</label>
                     <textarea id="msg" name="user_message"> Your message...</textarea>
                 </div>
+                <div>
+                    <button type="submit">Submit</button>
+                </div>
             </form>
         </div>
 
