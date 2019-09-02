@@ -39,3 +39,9 @@
     display: flex;
     justify-content: flex-end;
 }
+
+#nav_right ul {
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+}
