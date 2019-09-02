@@ -1,35 +1,44 @@
 <!doctype html>
 <html>
+
 <head>
-  <meta charset='utf-8'>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>My Portfolio</title>
-  <link type="text/css" href="css/main.css" rel="stylesheet"/>
-  <link href="https://fonts.google.com/?selection.family=Indie+Flower|Roboto:300,400,500,600,700" rel="stylesheet" />	
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Portfolio</title>
+    <link type="text/css" href="css/main.css" rel="stylesheet" />
+    <link href="https://fonts.google.com/?selection.family=Indie+Flower|Roboto:300,400,500,600,700" rel="stylesheet" />
 </head>
+
 <body>
-  <div id = "page-wrap">
-    <nav id="navbar">
-      <div id = "nav_left" class= "left">
-        <img id="logo-img" src="https://i.postimg.cc/15mHQKHT/3-N2.jpg"  alt="Logo" >
-      </div>
-      <div id = "nav_right" class= "right">
-        <ul>
-          <li class="nav_link"><a href="#promo">About</a></li>
-          <li class="nav_link"><a href="#projects">Past works</a></li>
-          <li class="nav_link"><a href="#contact">Contact</a></li>
-        </ul>
-      </div>
-    </nav>
-    <div id="welcome-section">
-      <img id="logo" src="https://i.postimg.cc/15mHQKHT/3-N2.jpg" alt="Logo image">
-      <h1>My Portfolio</h1>
+    <div id="page-wrap">
+        <nav id="navbar">
+            <div id="nav_left" class="left">
+                <img id="logo-img" src="https://i.postimg.cc/15mHQKHT/3-N2.jpg" alt="Logo">
+            </div>
+            <div id="nav_right" class="right">
+                <ul>
+                    <li class="nav_link"><a href="#promo">About</a></li>
+                    <li class="nav_link"><a href="#projects">Past works</a></li>
+                    <li class="nav_link"><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div id="welcome-section">
+            <img id="logo" src="https://i.postimg.cc/15mHQKHT/3-N2.jpg" alt="Logo image">
+            <h1>My Portfolio</h1>
+        </div>
+        <div id="promo">
+            <h2>Hi Sohel here....</h2>
+            <i class="far fa-3x fa-smile"></i>
+            <p>Front-end web developer, aspiring full-stack web developer. Experienced in UX / UI design.</p>
+            <p>Techonology stacks proficients in & in progress: HTML5, CSS3, SASS, Bootstrap4, JavaScript, ReactJS, and NodeJS.</p>
+            <button><a href="#contact">Contact</a></button>
+        </div>
+
+
     </div>
-    
-  
-  
-  </div> 
-    
+
 </body>
+
 </html>
