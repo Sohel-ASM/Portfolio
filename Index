@@ -74,7 +74,9 @@
             </div>
         </div>
         <div id="contact">
+            <form id="form" action="/#" method="post">
 
+            </form>
         </div>
 
     </div>
