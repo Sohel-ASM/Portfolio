@@ -180,3 +180,12 @@
 .container h4 {
     font-size: 1.4rem;
 }
+
+.card button {
+    width: 8rem;
+    display: block;
+    margin: 0.5rem auto;
+    line-height: 1.5;
+    letter-spacing: 0.1rem;
+    border-radius: 2%;
+}
