@@ -255,3 +255,13 @@
     border-radius: 1%;
     letter-spacing: 0.1rem;
 }
+
+/*..... footer section ..... */
+#footer {
+    border-top: 1px solid #140f01;
+    position: relative;
+    top: 25rem;
+    height: auto;
+    color: black;
+    background-image: linear-gradient(180deg, #E8A611, #140F01);
+}
