@@ -64,7 +64,12 @@
                     <button><a href="#" target="_blank">Check It Out</a></button>
                 </div>
                 <div class="project-tile card">
-
+                    <img src="https://via.placeholder.com/300/008000?text=Project+4" alt="Project 4">
+                    <div class="container">
+                        <h4>Project 4</h4>
+                        <p>Lorem ipsum dolor sit amet.</p>
+                    </div>
+                    <button><a href="#" target="_blank">Check It Out</a></button>
                 </div>
             </div>
         </div>
