@@ -142,3 +142,15 @@
     letter-spacing: 0.1rem;
     text-decoration: underline;
 }
+
+/*..... Projects section ..... */
+#projects {
+    position: relative;
+    top: 18rem;
+    height: auto;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
