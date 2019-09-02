@@ -94,7 +94,7 @@
         </div>
         <footer id="footer">
             <ul id="profile">
-
+                <li id="github"><a href="#" target="_blank" alt="github"><i class="fab fa-3x fa-github"></i></a></li>
             </ul>
         </footer>
 
