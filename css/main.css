@@ -113,3 +113,13 @@
     background-image: linear-gradient(45deg, #e88b0c, #720ce8);
     box-shadow: 2px 2px 3px 2px;
 }
+
+#promo h2 {
+    font-size: 2rem;
+    font-weight: 500;
+    padding-top: 1rem;
+}
+
+#promo p {
+    font-size: 1.3rem;
+}
