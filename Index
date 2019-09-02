@@ -55,8 +55,17 @@
                 </div>
             </div>
             <div id="pro_right" class="right">
-                <div class="project-tile card"></div>
-                <div class="project-tile card"></div>
+                <div class="project-tile card">
+                    <img src="https://via.placeholder.com/300/0000ff?text=Project+2" alt="Project 2">
+                    <div class="container">
+                        <h4>Project 2</h4>
+                        <p>Lorem ipsum dolor sit amet.</p>
+                    </div>
+                    <button><a href="#" target="_blank">Check It Out</a></button>
+                </div>
+                <div class="project-tile card">
+
+                </div>
             </div>
         </div>
 
