@@ -96,6 +96,7 @@
             <ul id="profile">
                 <li id="github"><a href="#" target="_blank" alt="github"><i class="fab fa-3x fa-github"></i></a></li>
                 <li id="fcc"><a id="profile-link" href="https://learn.freecodecamp.org/" target="_blank" alt="freeCodeCamp"><i class="fab fa-3x fa-free-code-camp"></i></a></li>
+                <li id="linkedin"><a href="#" target="_blank" alt="LinkedIn"><i class="fab fa-3x fa-linkedin"></i></a></li>
             </ul>
         </footer>
 
