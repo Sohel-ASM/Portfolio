@@ -236,3 +236,13 @@
     box-sizing: border-box;
     border: 1px solid #999;
 }
+
+#form input:focus,
+#form textarea:focus {
+    border-color: #000;
+}
+
+#form textarea {
+    vertical-align: top;
+    height: 5rem;
+}
