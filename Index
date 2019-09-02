@@ -45,7 +45,14 @@
                     </div>
                     <button><a href="https://codepen.io/Sohel_ASM/pen/daZVPm" target="_blank">Check It Out</a></button>
                 </div>
-                <div class="project-tile card"></div>
+                <div class="project-tile card">
+                    <img src="https://via.placeholder.com/300/0000ff?text=Project+3" alt="Project 3">
+                    <div class="container">
+                        <h4>Project 3</h4>
+                        <p>Lorem ipsum dolor sit amet.</p>
+                    </div>
+                    <button><a href="#" target="_blank">Check It Out</a></button>
+                </div>
             </div>
             <div id="pro_right" class="right">
                 <div class="project-tile card"></div>
