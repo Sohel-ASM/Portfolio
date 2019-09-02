@@ -166,3 +166,9 @@
     flex-flow: column wrap;
     justify-content: space-around;
 }
+
+.card {
+    margin: 2rem auto;
+    box-shadow: 2px 3px 4px;
+    border-radius: 2%;
+}
