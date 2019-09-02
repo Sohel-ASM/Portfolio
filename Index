@@ -35,6 +35,16 @@
             <p>Techonology stacks proficients in & in progress: HTML5, CSS3, SASS, Bootstrap4, JavaScript, ReactJS, and NodeJS.</p>
             <button><a href="#contact">Contact</a></button>
         </div>
+        <div id="projects">
+            <div id="pro_left" class="left">
+                <div class="project-tile card"></div>
+                <div class="project-tile card"></div>
+            </div>
+            <div id="pro_right" class="right">
+                <div class="project-tile card"></div>
+                <div class="project-tile card"></div>
+            </div>
+        </div>
 
 
     </div>
