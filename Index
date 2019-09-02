@@ -22,6 +22,10 @@
         </ul>
       </div>
     </nav>
+    <div id="welcome-section">
+      <img id="logo" src="https://i.postimg.cc/15mHQKHT/3-N2.jpg" alt="Logo image">
+      <h1>My Portfolio</h1>
+    </div>
     
   
   
