@@ -93,7 +93,9 @@
             </form>
         </div>
         <footer id="footer">
+            <ul id="profile">
 
+            </ul>
         </footer>
 
     </div>
