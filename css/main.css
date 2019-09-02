@@ -228,3 +228,11 @@
     width: 4rem;
     text-align: right;
 }
+
+#form input,
+#form textarea {
+    font: 1rem sans-serif;
+    width: 20rem;
+    box-sizing: border-box;
+    border: 1px solid #999;
+}
