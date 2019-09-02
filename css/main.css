@@ -172,3 +172,11 @@
     box-shadow: 2px 3px 4px;
     border-radius: 2%;
 }
+
+.container {
+    text-align: center;
+}
+
+.container h4 {
+    font-size: 1.4rem;
+}
