@@ -284,3 +284,10 @@
 .fab:focus {
     background-color: #A197B2;
 }
+
+#footer p {
+    text-align: center;
+    color: white;
+    padding-top: 0.5rem;
+    line-height: 1.5;
+}
