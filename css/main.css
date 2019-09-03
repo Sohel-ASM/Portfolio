@@ -291,3 +291,9 @@
     padding-top: 0.5rem;
     line-height: 1.5;
 }
+
+@media only screen and (max-width: 500px) {
+    #page-wrap {
+        font-size: 12px;
+    }
+}
